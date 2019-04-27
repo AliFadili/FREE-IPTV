@@ -1,6 +1,6 @@
 # [4FREEIPTV](https://www.forfreeiptv.com/) - Dowload Free IPTV Links World Wide
 
-| [4freeiptv](https://fofreeiptv.com) | [Playlists](https://fofreeiptv.com) | [How to install](https://www.forfreeiptv.com/2018/05/07/fix-iptv-vlc-issue/)
+| [4freeiptv](https://forfreeiptv.com) | [Playlists](https://fofreeiptv.com) | [How to install](https://www.forfreeiptv.com/2018/05/07/fix-iptv-vlc-issue/)
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. 4freeiptv provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
@@ -8,11 +8,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 **One of the cool features that 4freeiptv offers is that it will try and remove all the broken links and only supply the working links.**
 
-## By donating you help to keep 4FREEIPTV *FREE*!
+## By donating you really help us keep up the work !
 
 > [PayPal Me](https://www.paypal.me/CheapDeals)
->
-> OR
 >
 > <img id="paypal" class="pointer" width="200" src="https://miamibaysidefoundation.org/wp-content/uploads/2016/07/donate-paypal-1x.png">
 
